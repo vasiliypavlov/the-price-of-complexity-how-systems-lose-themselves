@@ -4,7 +4,7 @@
 
 > [`https://github.com/vasiliypavlov/the-price-of-complexity-how-systems-lose-themselves/blob/main/text/The-Price-of-Complexity-How-Systems-Lose-Themselves-ru.md`](https://github.com/vasiliypavlov/the-price-of-complexity-how-systems-lose-themselves/blob/main/text/The-Price-of-Complexity-How-Systems-Lose-Themselves-ru.md)
 
-> Author: Vasiliy Pavlov (Independent Researcher).
+**Author:** Vasiliy Pavlov (Independent Researcher).
 
 Complexity has become the quiet currency of our world. We add features, rules, connections — and gradually overlook the tipping point where each new change consumes more energy than it delivers. This essay explores how systems — from corporations and software architectures to information environments and personal strategies — accumulate the hidden **price of complexity** and eventually start working against themselves. It describes early symptoms of overload, the nature of “parasitic cycles” in debates and management, and practical tactics for maintaining stability through simplification. The text is aimed at engineers, managers, analysts, and anyone reflecting on the limits of growth.
 
