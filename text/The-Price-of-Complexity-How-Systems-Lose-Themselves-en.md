@@ -23,7 +23,7 @@ Complexity has become the quiet currency of the modern world. We keep adding fea
 9. A Personal Strategy: How Not to Waste Energy
 10. Conclusion: Resilience Is the Ability to Simplify
 
-## Introduction
+## Overview
 
 Almost every large project starts with a clear idea and a simple design. The code is easy to read. Decisions take minutes. Everyone understands what they are responsible for. Then years pass. The system grows and accumulates rules and connections. One day it turns out that it can no longer move forward.
 
@@ -51,7 +51,7 @@ This process resembles adding floors to an existing building. At first the task 
 
 In the early stages, complexity brings clear benefits. The system gains power, flexibility, and range. It can handle increasingly difficult tasks. But gradually a barely noticeable shift occurs. A moment comes when a growing share of resources goes not to the external result but to maintaining the system's own internal architecture. Most energy is spent on approvals, cross-checks, resolving contradictions, and servicing temporary measures.
 
-It is crucial to see clearly: in complex systems, the root cause is not someone's evil will. It is impersonal systemic dynamics. Different groups pull decisions in opposite directions. Choices are often made under severe time pressure. Old compromises are never revisited. Temporary palliatives quietly become permanent norms. Responsibility gradually blurs. The result is a structure with no single director but with continuously growing internal turbulence.
+It is crucial to see clearly: in complex systems, the root cause is not malicious intent. It is impersonal systemic dynamics. Different groups pull decisions in opposite directions. Choices are often made under severe time pressure. Old compromises are never revisited. Temporary palliatives quietly become permanent norms. Responsibility gradually blurs. The result is a structure with no single director but with continuously growing internal turbulence.
 
 From the outside, such a system may still look impressive and healthy. Inside, however, the price of complexity is already rising fast—the sum of hidden costs needed to keep basic operations running. When these costs begin to exceed the benefits, the system enters a self-destructive mode. It lays the ground for future crises that people later call sudden.
 
@@ -91,7 +91,7 @@ Technology develops faster than society can build control mechanisms, legal regu
 
 ### Economic Systems
 
-Global supply chains, financial markets, and digital platforms have tied the world economy into a single highly connected network. A local disruption can unpredictably echo in distant regions and adjacent industries. The pandemic clearly showed this. A conveyor stops at one factory in China. A month later, production sites in Europe sit idle. A chain carefully designed for maximum efficiency turns into a channel for instantly spreading instability in a crisis.
+Global supply chains, financial markets, and digital platforms have tied the world economy into a single highly connected network. A local disruption can unpredictably echo in distant regions and adjacent industries. The pandemic clearly showed this. An assembly line stops at a single factory in China. A month later, production sites in Europe sit idle. A chain carefully designed for maximum efficiency turns into a channel for instantly spreading instability in a crisis.
 
 ### Information Environments
 
@@ -123,7 +123,7 @@ But simplification has its own price, and people usually do not mention it. Refa
 
 ## 9. A Personal Strategy: How Not to Waste Energy
 
-An individual rarely can rebuild a large system by sheer will. But they can change their own way of interacting with it. Personal resilience in a complex environment rests on three interconnected skills.
+An individual can rarely rebuild a large system by sheer will. But they can change their own way of interacting with it. Personal resilience in a complex environment rests on three interconnected skills.
 
 ### Notice Vicious Cycles Early
 
